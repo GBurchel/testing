@@ -34,7 +34,7 @@ import java.security.MessageDigest
 import hubitat.helper.HexUtils
 
 metadata {
-	definition (name: "Zigbee - Aqara Smart Curtain Motor", namespace: "oh-lalabs.com", author: "Markus Liljergren", filename: "zigbee-aqara-smart-curtain-motor", importUrl: "https://raw.githubusercontent.com/markus-li/Hubitat/release/drivers/expanded/zigbee-aqara-smart-curtain-motor-expanded.groovy") {
+	definition (name: "Zigbee - Aqara Smart Curtain Motor test", namespace: "oh-lalabs.com", author: "Markus Liljergren", filename: "zigbee-aqara-smart-curtain-motor test", importUrl: "https://raw.githubusercontent.com/markus-li/Hubitat/release/drivers/expanded/zigbee-aqara-smart-curtain-motor-expanded.groovy") {
         // BEGIN:getDefaultMetadataCapabilitiesForZigbeeDevices()
         capability "Sensor"
         capability "PresenceSensor"
